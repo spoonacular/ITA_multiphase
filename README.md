@@ -12,6 +12,6 @@ The Initialization includes two steps:
 Then, the main loop is executed by calling "proceed" function.
 
 ----------------------------------------
-Please cite the following article if you find this algorithm useful:
+Please consider citing the following article if you find this algorithm useful:
 
 Wang, Z., Pereira, J.-M., Sauret, E., Aryana, S. A., Shi, Z., &amp; Gan, Y. (2022, February 26). A pore-resolved interface tracking algorithm for simulating multiphase flow in arbitrarily structured porous media. Advances in Water Resources. Retrieved May 11, 2022, from https://www.sciencedirect.com/science/article/pii/S030917082200029X 
