@@ -1,7 +1,7 @@
 # ITA_multiphase
 
 
-The interface tracking algorithm simulates immiscible fluid-fluid displacement processes in two-dimentional porous media in the quasi-static (capillary-dominated) regime under different wetting conditions (controlled by the contact angle).
+This interface tracking algorithm (ITA) simulates immiscible fluid-fluid displacement processes in two-dimentional porous media in the quasi-static (capillary-dominated) regime under different wetting conditions (controlled by the contact angle).
 
 The Initialization includes two steps:
   1. the porous medium geometry is read either from an image (option 1), or from a mat file containing the x,y coordinates for the grain boundaries (option 2).
