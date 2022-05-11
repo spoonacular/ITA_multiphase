@@ -5,7 +5,7 @@ This interface tracking algorithm (ITA) simulates immiscible fluid-fluid displac
 
 The Initialization includes two steps:
   1. the porous medium geometry is read either from an image (option 1), or from a mat file containing the x,y coordinates for the grain boundaries (option 2).
-  2. the initial meniscus location, as well as the inlet/oulet, are specified.
+  2. setup the initial meniscus location (inlet), as well as the oulet location.
 
 Then, the main loop is executed by calling "proceed" function.
 
