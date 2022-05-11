@@ -1,4 +1,15 @@
 # ITA_multiphase
 
 
-The algorithm 
+The interface tracking algorithm simulates immiscible fluid-fluid displacement processes in two-dimentional porous media in the quasi-static (capillary-dominated) regime under different wetting conditions (controlled by the contact angle).
+
+The Initialization includes two steps:
+  1. the porous medium geometry is read either from an image (option 1), or from a mat file containing the x,y coordinates for the grain boundaries (option 2).
+  2. the initial meniscus location, as well as the inlet/oulet, are specified.
+
+Then, the main loop is executed by calling "proceed" function.
+
+----------------------------------------
+Please cite the following article if you find this algorithm useful:
+
+Wang, Z., Pereira, J.-M., Sauret, E., Aryana, S. A., Shi, Z., &amp; Gan, Y. (2022, February 26). A pore-resolved interface tracking algorithm for simulating multiphase flow in arbitrarily structured porous media. Advances in Water Resources. Retrieved May 11, 2022, from https://www.sciencedirect.com/science/article/pii/S030917082200029X 
