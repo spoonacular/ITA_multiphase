@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Wang"
+  given-names: "Zhongzheng"
+  - family-names: "Pereira"
+    given-names: "Jean-Michel"
+  - family-names: "Sauret"
+    given-names: "Emilie"
+  - family-names: "Aryana"
+    given-names: "Saman"
+  - family-names: "Shi"
+    given-names: "Zhang"
+  - family-names: "Gan"
+    given-names: "Yixiang"
+  doi: "10.1016/j.advwatres.2022.104152"
+  journal: "Advances in Water Resources"
+  month: 4
+  start: 104152 # First page number
+  title: "A pore-resolved interface tracking algorithm for simulating multiphase flow in arbitrarily structured porous media"
+  volume: 162
+  year: 2022
